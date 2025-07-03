@@ -39,4 +39,5 @@ These views allow modular and simplified access to frequently queried data.
 
 #  Files Included
 | `views.sql` | SQL queries for Task 7 with view definitions and test queries |
+
 | `README.md` | This file — summary of the task and work done |
